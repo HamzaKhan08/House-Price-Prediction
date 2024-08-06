@@ -24,7 +24,7 @@
 5. Number of Instances: 506
 
 6. Number of Attributes: 13 continuous attributes (including "class"
-                         attribute "MEDV"), 1 binary-valued attribute.
+                         attribute "SalePrice"), 1 binary-valued attribute.
 
 7. Attribute Information:
 
@@ -44,7 +44,7 @@
     12. B        1000(Bk - 0.63)^2 where Bk is the proportion of blacks 
                  by town
     13. LSTAT    % lower status of the population
-    14. MEDV     Median value of owner-occupied homes in $1000's
+    14. SalePrice     Median value of owner-occupied homes in $1000's
 
 8. Missing Attribute Values:  None.
 
