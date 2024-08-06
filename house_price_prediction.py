@@ -10,7 +10,8 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 
 # Loading the dataset
-data = pd.read_csv('/Users/hamzakhan/Downloads/House Price Prediction By Hk/data.csv', header=0)
+data = pd.read_csv('/Users/hamzakhan/Downloads/House Price Prediction By Hk/data.csv', header=0) 
+# kindly change the path based on your directory for running this project
 
 # Display the first few rows of dataset
 print("Initial dataset:")
